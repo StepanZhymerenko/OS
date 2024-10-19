@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <unistd.h>
-#include <stdarg.h>  // Додаємо для роботи зі змінними аргументами
+#include <stdarg.h>  
 #include <sys/types.h>
 #include <sys/wait.h>
 
